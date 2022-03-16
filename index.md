@@ -18,10 +18,10 @@
 
 # Images I used to create it
 
-1. The first images come from the website: https://www.biggerbolderbaking.com/lemon-blueberry-muffins/
+1. The first images is a picture of [Muffine](https://www.biggerbolderbaking.com/lemon-blueberry-muffins/)
 ![Muffin](https://www.biggerbolderbaking.com/wp-content/uploads/2020/05/Bakery-Style-Lemon-Blueberry-Muffins-WS-Thumbnail.jpg)
 
-2. The second images come from the website: https://www.zastavki.com/eng/Animals/Dogs/wallpaper-85122-10.htm
+2. The second images is a picture of [Chihuahua](https://www.zastavki.com/eng/Animals/Dogs/wallpaper-85122-10.htm)
 
 ![Chihuahua](https://www.zastavki.com/pictures/1280x1024/2014/Animals___Dogs_Beautiful_muzzle_Chihuahua_085122_10.jpg)
 
