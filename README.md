@@ -9,12 +9,12 @@ Purpose of this repository: Practising R programming language, demonstrating my 
 * **my_meme.png**
 
 * **index.md**
-    1. Description of my meme  
+    + Description of my meme  
       - Information about this meme  
       - The motivation of creating this meme  
       - The format of this meme   
-    2. Display the meme
-    3. Images I used to create it
-    4. R code I used to create it
+    + Display the meme
+    + Images I used to create it
+    + R code I used to create it
 
 ## Part B:
