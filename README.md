@@ -1,8 +1,10 @@
-# stats220
+# :woman_technologist: Ruowei's Stats220 Repo
 
-The website for my [stats220 repo](https://github.com/Ruowei-Li/stats220/blob/main/index.md)
+# Purpose of this repository
 
-Purpose of this repository: Practising R programming language, demonstrating my personal assignment projects for the course stats220.
+Practising R programming language, demonstrating my personal assignment projects for the course stats220.
+
+Projects that I create are displayed on [this github website page](https://ruowei-li.github.io/stats220/).
 
 # Assignments 1
 ## Part A:
