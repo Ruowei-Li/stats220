@@ -1,6 +1,6 @@
 # stats220
 
-My [repository link](https://github.com/Ruowei-Li/stats220)
+The website for my [stats220 repo](https://github.com/Ruowei-Li/stats220/blob/main/index.md)
 
 Purpose of this repository: Practising R programming language, demonstrating my personal assignment projects for the course stats220.
 
