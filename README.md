@@ -7,7 +7,9 @@ Practising R programming language, demonstrating my personal assignment projects
 Projects that I create are displayed on [this github website page](https://ruowei-li.github.io/stats220/).
 
 ## Assignments 1
+
 ### Part A:
+
 * **my_meme.png**
 
 * **index.md**
@@ -19,4 +21,4 @@ Projects that I create are displayed on [this github website page](https://ruowe
     + Images I used to create it
     + R code I used to create it
 
-### Part B:
+_This repo only has the Part A of Assignment 1_
