@@ -52,7 +52,6 @@ image_1 <- image_read(path = "https://www.biggerbolderbaking.com/wp-content/uplo
                  gravity = "southwest")
 
 # read a chihuahua image and write text
-
 image_2 <- image_read(path = "https://www.k9web.com/wp-content/uploads/2021/01/five-purebred-chihuahua-dogs.jpg") %>%
   image_crop("230x230+300") %>%
     image_scale(200) %>%
@@ -65,7 +64,6 @@ image_2 <- image_read(path = "https://www.k9web.com/wp-content/uploads/2021/01/f
 # combine two images in one row
 second_row <- c(image_1, image_2) %>%
   image_append()
-
 
 # create my meme
 meme <- c(image, second_row) %>%
